@@ -1,0 +1,15 @@
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-multipart>=0.0.12
+androguard==3.3.5
+# yara-python>=4.5.0  # Optional: requires MSVC Build Tools on Windows (https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+jinja2>=3.1.4
+# weasyprint>=62.3  # Optional: requires GTK on Windows, falls back to HTML if missing
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+pyjwt>=2.9.0
+passlib[bcrypt]>=1.7.4
+numpy>=1.26.0
+aiofiles>=24.1.0
+httpx>=0.27.0
+loguru>=0.7.2

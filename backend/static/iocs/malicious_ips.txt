@@ -1,0 +1,3 @@
+# Android malware IP IOCs
+# Intentionally left empty until sourced Android-specific IP indicators are added.
+# The previous seed data mixed unrelated Windows malware infrastructure into Android detections.

@@ -1,0 +1,36 @@
+# Android malware C2/distribution domains from CloudSEK FluBot advisory
+# Source: https://www.cloudsek.com/threatintelligence/flubot-malware-threat-intel-advisory
+xjnwqdospderqtk.ru # FluBot active C2
+nfiuerwtftasnuk.com # FluBot active C2
+2020.techbharat.org.in # FluBot APK distribution
+amirapache.ir # FluBot APK distribution
+anapa-dive.ru # FluBot APK distribution
+audioquran.kz # FluBot APK distribution
+buguilou.com # FluBot APK distribution
+canhair.net # FluBot APK distribution
+ekremakin.org # FluBot APK distribution
+elektroprommash.ru # FluBot APK distribution
+grahaksamachar.in # FluBot APK distribution
+idea-soft.it # FluBot APK distribution
+imw6.com # FluBot APK distribution
+ln-lighting.com # FluBot APK distribution
+mimi-mi.studio # FluBot APK distribution
+muaadzawy.com # FluBot APK distribution
+ouyangpengcheng.xyz # FluBot APK distribution
+pescadorsportsgroup.com # FluBot APK distribution
+raku-plus.com # FluBot APK distribution
+rpgbundle.info # FluBot APK distribution
+skipshopping.net # FluBot APK distribution
+studiobonazzi.eu # FluBot APK distribution
+wxz14.com # FluBot APK distribution
+xref.icu # FluBot APK distribution
+yulu1953.cn # FluBot APK distribution
+42sf.net # FluBot APK distribution
+84blog.xyz # FluBot APK distribution
+aitao.site # FluBot APK distribution
+amzstudy.com # FluBot APK distribution
+dumeiwu.com # FluBot APK distribution
+fraternitykerala.org # FluBot APK distribution
+machupicchutraveling.com # FluBot APK distribution
+telugufusion.com # FluBot APK distribution
+weboyal.com # FluBot APK distribution
